@@ -18,7 +18,7 @@ Neste projeto, iremos realizar as seguintes etapas:
 3. Visualização dos dados.
 4. Conclusão.
 
-Confere o [projeto completo](https://github.com/olesyagalkina/Election-Russia-2024/blob/main/Votes%20abroad-v2.ipynb). 
+Confira o [projeto completo](https://github.com/olesyagalkina/Election-Russia-2024/blob/main/Votes%20abroad-v2.ipynb). 
 
 <img src="https://octodex.github.com/images/benevocats.png" width="400" height="400">
 
