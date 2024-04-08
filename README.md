@@ -16,7 +16,7 @@ Os negócios da empresa XYZ dependem parcialmente de receita recorrente, o que e
 - Desenvolvimento e avaliação do modelo.
 - Conclusões finais.
 
-Cada etapa desempenha um papel crucial na compreensão da dinâmica do churn das empresas que utilizam os serviços da XYZ, permitindo uma abordagem mais informada e estratégica para mitigar a perda de clientes.
+Cada etapa desempenha um papel crucial na compreensão da dinâmica do churn das empresas que utilizam os serviços da XYZ, permitindo uma abordagem mais informada e estratégica para mitigar a perda de clientes. O [projeto](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb) completo. 
 
 <img src="https://octodex.github.com/images/collabocats.jpg" width="400" height="400">
 
