@@ -5,25 +5,7 @@ Seja bem-vindo ao meu portfólio de análise e ciência de dados!
 <img src="https://octodex.github.com/images/femalecodertocat.png" width="400" height="400">
 
 
-## [Análise de dados geoespacial: distribuição de votos no exterior nas eleições presidenciais da Rússia de 2024](https://github.com/olesyagalkina/Election-Russia-2024/blob/main/Votes%20abroad-v2.ipynb)
-
-O objetivo deste projeto é visualizar os votos no exterior da Rússia na eleição presidencial de 2024. Para a visualização dos dados no mapa mundial, utilizamos o pacote GeoPandas. Trata-se de um projeto de código aberto desenvolvido para facilitar o trabalho com dados geoespaciais em Python. GeoPandas estende os tipos de dados utilizados pelo Pandas para permitir operações espaciais em tipos geométricos.
-
-Os dados de votação no exterior da Rússia foram obtidos do site oficial da Comissão Eleitoral Central http://cikrf.ru/ (é necessário utilizar uma VPN para acessar o site fora do Brasil).
-
-Neste projeto, iremos realizar as seguintes etapas:
-
-1. Tradução dos dados do russo para o português.
-2. Limpeza dos dados.
-3. Visualização dos dados.
-4. Conclusão.
-
-Confira o [projeto completo](https://github.com/olesyagalkina/Election-Russia-2024/blob/main/Votes%20abroad-v2.ipynb). 
-
-<img src="https://octodex.github.com/images/benevocats.png" width="400" height="400">
-
-
-## [Modelo de ML para prever cancelamento de contratos](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb)
+## [Modelo de ML para prever cancelamento de contratos (churn)](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb)
 
 Neste projeto, estaremos desenvolvendo e avaliando um modelo de aprendizado de máquina com o propósito de antecipar o churn das empresas que utilizam os serviços da empresa XYZ, utilizando diversas variáveis como base para a previsão.
 
@@ -47,6 +29,24 @@ Customer Churn Prediction, também conhecido como previsão de rotatividade de c
 Os modelos escolhidos para implementação do projeto: Random Forest e XGBoost. Link do [projeto completo](https://github.com/olesyagalkina/portfolio/blob/main/Waze_churn_prediction_ML.ipynb).
 
 <img src="https://octodex.github.com/images/Fintechtocat.png" width="400" height="400">
+
+
+## [Análise de dados geoespacial: distribuição de votos no exterior nas eleições presidenciais da Rússia de 2024](https://github.com/olesyagalkina/Election-Russia-2024/blob/main/Votes%20abroad-v2.ipynb)
+
+O objetivo deste projeto é visualizar os votos no exterior da Rússia na eleição presidencial de 2024. Para a visualização dos dados no mapa mundial, utilizamos o pacote GeoPandas. Trata-se de um projeto de código aberto desenvolvido para facilitar o trabalho com dados geoespaciais em Python. GeoPandas estende os tipos de dados utilizados pelo Pandas para permitir operações espaciais em tipos geométricos.
+
+Os dados de votação no exterior da Rússia foram obtidos do site oficial da Comissão Eleitoral Central http://cikrf.ru/ (é necessário utilizar uma VPN para acessar o site fora do Brasil).
+
+Neste projeto, iremos realizar as seguintes etapas:
+
+1. Tradução dos dados do russo para o português.
+2. Limpeza dos dados.
+3. Visualização dos dados.
+4. Conclusão.
+
+Confira o [projeto completo](https://github.com/olesyagalkina/Election-Russia-2024/blob/main/Votes%20abroad-v2.ipynb). 
+
+<img src="https://octodex.github.com/images/benevocats.png" width="400" height="400">
 
 
 ## [Previsão de rotatividade de usuários (churn) no Waze através de Regressão Logística](https://github.com/olesyagalkina/portfolio/blob/main/analise_regressao_waze_v4.ipynb)
