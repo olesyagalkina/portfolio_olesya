@@ -1,6 +1,6 @@
-# Portfólio de Análise e Ciência de Dados
+# Portfólio de Ciência de Dados e Machine Learning
 
-Seja bem-vindo ao meu portfólio de análise e ciência de dados!
+Seja bem-vind@ ao meu portfólio de análise e ciência de dados!
 
 <img src="https://octodex.github.com/images/femalecodertocat.png" width="400" height="400">
 
@@ -9,6 +9,8 @@ Seja bem-vindo ao meu portfólio de análise e ciência de dados!
 O objetivo do projeto é restringir um conjunto de parâmetros cosmológicos realizando uma análise bayesiana usando o método Monte Carlo com Cadeia de Markov (MCMC) em supernovas do tipo Ia. O método MCMC e a estatística bayesiana são duas disciplinas independentes: o primeiro é um método de amostragem de uma distribuição, enquanto a última é uma teoria para interpretar dados observados. O projeto inclui a análise exploratória de dados em Python, a inferência bayesiana e o método Monte Carlo com Cadeia de Markov (MCMC).
 
 Os algoritmos de Monte Carlo vêm sendo utilizados para resolver diversos tipos de problemas, tais como problemas de amostragem e estimação, encontrando aplicações na Física, Biologia e Engenharia. Dentre suas muitas variações, algoritmos de Monte Carlo acoplados a cadeias de Markov (MCMC) estão entre os mais poderosos, como Metropolis-Hastings e simulated annealing. Com a crescente quantidade de dados e demanda por eficiência computacional, tais algoritmos vêm sendo usados como base de técnicas emergentes em Ciências dos Dados e Inteligência Artificial.
+
+<img src="https://avatars.githubusercontent.com/u/146961854?v=4" width="400" height="400">
 
 
 ## [Modelo de ML para prever cancelamento de contratos (churn)](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb)
