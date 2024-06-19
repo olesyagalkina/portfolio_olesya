@@ -1,6 +1,6 @@
-# Portfólio de Ciência de Dados e Machine Learning
+# Portfólio de Ciência de Dados
 
-Seja bem-vind@ ao meu portfólio de análise e ciência de dados!
+Seja bem-vind@ ao meu portfólio de ciência de dados!
 
 <img src="https://octodex.github.com/images/femalecodertocat.png" width="400" height="400">
 
