@@ -10,7 +10,7 @@ O objetivo do projeto é restringir um conjunto de parâmetros cosmológicos rea
 
 Os algoritmos de Monte Carlo vêm sendo utilizados para resolver diversos tipos de problemas, tais como problemas de amostragem e estimação, encontrando aplicações na Física, Biologia e Engenharia. Dentre suas muitas variações, algoritmos de Monte Carlo acoplados a cadeias de Markov (MCMC) estão entre os mais poderosos, como Metropolis-Hastings e simulated annealing. Com a crescente quantidade de dados e demanda por eficiência computacional, tais algoritmos vêm sendo usados como base de técnicas emergentes em Ciências dos Dados e Inteligência Artificial.
 
-<img src="https://avatars.githubusercontent.com/u/146961854?v=4" width="400" height="400">
+<img src="https://octodex.github.com/images/mona-lovelace.jpg" width="400" height="400">
 
 
 ## [Modelo de ML para prever cancelamento de contratos (churn)](https://github.com/olesyagalkina/portfolio/blob/main/Churn-contrato-%20XYZ.ipynb)
