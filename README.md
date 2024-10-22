@@ -4,7 +4,7 @@ Seja bem-vind@ ao meu portfólio de ciência de dados!
 
 <img src="https://octodex.github.com/images/femalecodertocat.png" width="400" height="400">
 
-## [Análise bayesiana usando o método Monte Carlo com Cadeia de Markov (MCMC) em supernovas do tipo Ia](https://github.com/olesyagalkina/trabalhos/blob/main/SNE_Analysis_final.ipynb)
+## [Análise bayesiana usando o método Monte Carlo com Cadeia de Markov (MCMC) em supernovas do tipo Ia](https://github.com/olesyagalkina/MCMC-based-Bayesian-data-analysis/blob/main/SNE_Analysis_final.ipynb)
 
 O objetivo do projeto é restringir um conjunto de parâmetros cosmológicos realizando uma análise bayesiana usando o método Monte Carlo com Cadeia de Markov (MCMC) em supernovas do tipo Ia. O método MCMC e a estatística bayesiana são duas disciplinas independentes: o primeiro é um método de amostragem de uma distribuição, enquanto a última é uma teoria para interpretar dados observados. O projeto inclui a análise exploratória de dados em Python, a inferência bayesiana e o método Monte Carlo com Cadeia de Markov (MCMC).
 
